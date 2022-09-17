@@ -124,7 +124,6 @@ PRODUCT_PACKAGES += \
     libgf_in_system_lib \
     libgiantmscl \
     libhwjpeg \
-    libion_exynos \
     libiva_android_hal \
     libqfp_sensortest \
     libsecaudioinfo \
